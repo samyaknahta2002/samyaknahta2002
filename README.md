@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Linkedin](www.linkedin.com/in/samyak-nahta-b6b0401bb)
 
-- 💬 Ask me about **PHP or CSS**
+- 💬 Ask me about **https://portfolio-sn.vercel.app/**
 
 - 📫 How to reach me **Linkedin: [@Samyak-Nahta](https://www.linkedin.com/in/samyak-nahta-b6b0401bb) | Instagram: [@samyaknahta12](https://www.instagram.com/samyaknahta12/)**
 
